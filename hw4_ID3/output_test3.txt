@@ -1,0 +1,11 @@
+violence
+¢u¢wno¢w¢wlove
+¡U		¢u¢wno¢w¢wdrug
+¡U		¡U		¢u¢wno¢w¢w[('Yes',)]
+¡U		¡U		¢|¢wyes¢w¢w[('No',)]
+¡U		¢|¢wyes¢w¢w[('Yes',)]
+¢|¢wyes¢w¢wlove
+¡U		¢u¢wno¢w¢w[('No',)]
+¡U		¢|¢wyes¢w¢wdrug
+¡U		¡U		¢u¢wno¢w¢w[('Yes',)]
+¡U		¡U		¢|¢wyes¢w¢w[('No',)]
